@@ -20,6 +20,6 @@ Explore our repositories to find:
 ## 📝 Blog
 Check out our [blog](https://blog.lulolabs.co/), where we share in-depth articles about data engineering, analytics, and emerging trends in technology. We also cover best practices, tutorials, and insights for professionals in the data space.
 
-📧 Get In Touch
-For inquiries or collaboration opportunities, reach out to us at github@lulolabs.com.
+## 📧 Get In Touch
+For inquiries or collaboration opportunities, reach out to us at [hello@lulolabs.co](mailto:hello@lulolabs.co).  For questions or inqueiries about any of our repositories, reach out at [code@lulolabs.co](mailto:code@lulolabs.co)
 
